@@ -1,0 +1,24 @@
+{
+  "name": "traceroute-cli",
+  "version": "0.0.1",
+  "description": "A Nodejs Traceroute CLI",
+  "bin": {
+    "traceroute-cli": "./bin/traceroute-cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bl0cknumber/traceroute-cli.git"
+  },
+  "keywords": [
+    "traceroute",
+    "traceroute wrapper",
+    "traceroute-cli",
+    "traceroute nodejs"
+  ],
+  "author": "bl0cknumber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bl0cknumber/traceroute-cli/issues"
+  },
+  "homepage": "https://github.com/bl0cknumber/traceroute-cli"
+}
