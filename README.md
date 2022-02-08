@@ -4,13 +4,19 @@ Originally from [node-traceroute](https://github.com/jaw187/node-traceroute), bu
 
 ## Features
 
-✅ Aims to be cross-platform tracerouter CLI, using cross-spawn in charge
+✅ Aims to be cross-platform tracerouter CLI, using cross-spawn in charge\
 ❌ Save traceroute log to file (TODO)
 
 ## Usage
 
 ```sh
-npx traceroute-cli google.com
+npm i -g traceroute-cli
+```
+
+then trace the route which are desired
+
+```
+traceroute-cli google.com
 ```
 
 ---

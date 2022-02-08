@@ -1,6 +1,7 @@
 {
   "name": "traceroute-cli",
   "version": "0.0.1",
+  "preferGlobal": true,
   "description": "A Nodejs Traceroute CLI",
   "bin": {
     "traceroute-cli": "./bin/traceroute-cli.js"
