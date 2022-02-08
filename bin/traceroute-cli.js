@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { trace } = require("../lib/traceroute.js");
 
 const argv = process.argv.slice(2);
