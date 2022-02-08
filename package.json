@@ -4,7 +4,7 @@
   "preferGlobal": true,
   "description": "A Nodejs Traceroute CLI",
   "bin": {
-    "traceroute-cli": "./bin/traceroute-cli.js"
+    "traceroute-cli": "./bin/traceroute-cli"
   },
   "repository": {
     "type": "git",
