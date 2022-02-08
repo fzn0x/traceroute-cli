@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/bl0cknumber/traceroute-cli/issues"
   },
-  "homepage": "https://github.com/bl0cknumber/traceroute-cli"
+  "homepage": "https://github.com/bl0cknumber/traceroute-cli",
+  "dependencies": {
+    "cross-spawn": "^7.0.3"
+  }
 }
