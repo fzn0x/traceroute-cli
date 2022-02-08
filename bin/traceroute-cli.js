@@ -7,6 +7,8 @@ trace(argv[0], (err, hops) => {
     console.log(err);
     process.exit(1);
   }
-  console.log(hops);
+  // TODO: add flags to output hops as log
+  // see example output in ../output.json
+  // console.log(hops);
   process.exit(0);
 });
