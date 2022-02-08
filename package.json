@@ -3,9 +3,16 @@
   "version": "0.0.1",
   "preferGlobal": true,
   "description": "A Nodejs Traceroute CLI",
+  "main": "./lib/traceroute/cli.js",
   "bin": {
     "traceroute-cli": "./bin/traceroute-cli"
   },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "bin/*",
+    "lib/*"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bl0cknumber/traceroute-cli.git"
